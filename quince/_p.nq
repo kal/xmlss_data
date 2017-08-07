@@ -1,3 +1,0 @@
-﻿<http://datadock.io/kal/xmlss_data/> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/xmlss_data/id/dataset/publisher> <http://datadock.io/kal/xmlss_data/metadata>.
-<http://datadock.io/kal/xmlss_data/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/xmlss_data/metadata>.
-<http://datadock.io/kal/xmlss_data/id/definition/stop> <http://www.w3.org/2000/01/rdf-schema#label> "stop"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.

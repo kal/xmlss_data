@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/xmlss_data/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/xmlss_data/metadata>.
+<http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv/metadata>.
