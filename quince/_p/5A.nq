@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/xmlss_data/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv> <http://datadock.io/kal/xmlss_data/metadata>.
+<http://datadock.io/kal/xmlss_data/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/xmlss_data/id/dataset/bristolmonumentslatlongcsv> <http://datadock.io/kal/xmlss_data/metadata>.

@@ -8,9 +8,11 @@
 <http://datadock.io/kal/xmlss_data/id/definition/easting> <http://www.w3.org/2000/01/rdf-schema#label> "EASTING"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/extant> <http://www.w3.org/2000/01/rdf-schema#label> "EXTANT"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/known_as> <http://www.w3.org/2000/01/rdf-schema#label> "KNOWN_AS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
+<http://datadock.io/kal/xmlss_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "LATITUDE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/listed_building_grade> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_GRADE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/listed_building_no> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/location_1> <http://www.w3.org/2000/01/rdf-schema#label> "Location 1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
+<http://datadock.io/kal/xmlss_data/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "LONGITUDE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/monument_desc> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_DESC"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/monument_record_no> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_RECORD_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
 <http://datadock.io/kal/xmlss_data/id/definition/monument_type> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_TYPE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/definitions>.
