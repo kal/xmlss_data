@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/1575M> <http://datadock.io/kal/xmlss_data/id/definition/construction> "1935"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
+<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/861M> <http://datadock.io/kal/xmlss_data/id/definition/demolition> "1935"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.

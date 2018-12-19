@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/xmlss_data/id/resource/Bristol_Monuments.csv/row_1862> <http://datadock.io/kal/xmlss_data/id/definition/easting> "359786"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/5050M> <http://datadock.io/kal/xmlss_data/id/definition/easting> "359786"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.

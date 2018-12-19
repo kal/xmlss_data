@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/xmlss_data/id/resource/Bristol_Monuments.csv/row_1011> <http://datadock.io/kal/xmlss_data/id/definition/postal_address> "Cotham Ark, Montague Place"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/1380M> <http://datadock.io/kal/xmlss_data/id/definition/postal_address> "Cotham Ark, Montague Place"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.

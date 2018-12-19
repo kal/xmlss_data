@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv> <http://purl.org/dc/terms/title> "Bristol_Monuments.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv/metadata>.
+<http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments> <http://purl.org/dc/terms/title> "Bristol Monuments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments/metadata>.

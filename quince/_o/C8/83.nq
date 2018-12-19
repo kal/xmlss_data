@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/xmlss_data/id/resource/Bristol_Monuments.csv/row_819> <http://datadock.io/kal/xmlss_data/id/definition/known_as> "St. Mary-on-the-Quay"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/252M> <http://datadock.io/kal/xmlss_data/id/definition/known_as> "St. Mary-on-the-Quay"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
