@@ -1,4 +1,1 @@
-﻿<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/1541M> <http://datadock.io/kal/xmlss_data/id/definition/demolition> "1903"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
-<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/2229M> <http://datadock.io/kal/xmlss_data/id/definition/location_1> "(51.433538, -2.5999332)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
-<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/232M> <http://datadock.io/kal/xmlss_data/id/definition/demolition> "1903"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
-<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/2473M> <http://datadock.io/kal/xmlss_data/id/definition/known_as> "Norton Farm"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
+﻿
