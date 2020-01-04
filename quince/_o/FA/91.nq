@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/3155M> <http://datadock.io/kal/xmlss_data/id/definition/location_1> "(51.460857, -2.6253226)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
-<http://datadock.io/kal/xmlss_data/id/resource/monument_record_no/1399M> <http://datadock.io/kal/xmlss_data/id/definition/latitude> "51.460544"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/xmlss_data/id/dataset/bristolmonumentslatlongcsv>.

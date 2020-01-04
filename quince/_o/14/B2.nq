@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/1308M> <http://datadock.io/kal/xmlss_data/id/definition/northing> "172269"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
-<http://datadock.io/kal/xmlss_data/id/resource/monument_record_no/5126M> <http://datadock.io/kal/xmlss_data/id/definition/latitude> "51.457926"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/xmlss_data/id/dataset/bristolmonumentslatlongcsv>.

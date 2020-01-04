@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/xmlss_data/id/resource/bristolMonuments/monument_record_no/2270M> <http://datadock.io/kal/xmlss_data/id/definition/easting> "360922"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/xmlss_data/id/dataset/bristolMonuments>.
-<http://datadock.io/kal/xmlss_data/id/resource/monument_record_no/2297M> <http://datadock.io/kal/xmlss_data/id/definition/latitude> "51.449308"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/xmlss_data/id/dataset/bristolmonumentslatlongcsv>.
